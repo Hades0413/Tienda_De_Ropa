@@ -1,0 +1,486 @@
+[
+    {
+        "id": "poleras-01",
+        "titulo": "Sello 8 trigramas",
+        "imagen": "./img/poleras/01.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-02",
+        "titulo": "La Parca",
+        "imagen": "./img/poleras/02.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-03",
+        "titulo": "Son Goku",
+        "imagen": "./img/poleras/03.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-04",
+        "titulo": "Itachi Uchiha",
+        "imagen": "./img/poleras/04.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-05",
+        "titulo": "Chainsaw",
+        "imagen": "./img/poleras/05.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-06",
+        "titulo": "Chainsaw Man",
+        "imagen": "./img/poleras/06.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-07",
+        "titulo": "Monkey D. Luffy",
+        "imagen": "./img/poleras/07.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-08",
+        "titulo": "Death Note",
+        "imagen": "./img/poleras/08.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-09",
+        "titulo": "Evangelion",
+        "imagen": "./img/poleras/09.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-10",
+        "titulo": "Overlord",
+        "imagen": "./img/poleras/10.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-11",
+        "titulo": "Spy x Family",
+        "imagen": "./img/poleras/11.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-12",
+        "titulo": "A.O.T",
+        "imagen": "./img/poleras/12.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-13",
+        "titulo": "Black Clover",
+        "imagen": "./img/poleras/13.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-14",
+        "titulo": "Bakugo",
+        "imagen": "./img/poleras/14.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-15",
+        "titulo": "Bleach",
+        "imagen": "./img/poleras/15.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+    {
+        "id": "poleras-16",
+        "titulo": "Tokyo Ghoul",
+        "imagen": "./img/poleras/16.jpg",
+        "categoria": {
+            "nombre": "Poleras",
+            "id": "poleras"
+        },
+        "precio": 20
+    },
+
+
+    
+    {
+        "id": "polos-01",
+        "titulo": "Evagelion",
+        "imagen": "./img/polos/01.jpg",
+        "categoria": {
+            "nombre": "Polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-02",
+        "titulo": "Spy x Family",
+        "imagen": "./img/polos/02.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-03",
+        "titulo": "Rengoku",
+        "imagen": "./img/polos/03.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-04",
+        "titulo": "One Piece",
+        "imagen": "./img/polos/04.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-05",
+        "titulo": "One Punch Man",
+        "imagen": "./img/polos/05.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-06",
+        "titulo": "Jujutsu Kaisen",
+        "imagen": "./img/polos/06.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-07",
+        "titulo": "Levi Ackerman",
+        "imagen": "./img/polos/07.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-08",
+        "titulo": "Rengoku Comiendo",
+        "imagen": "./img/polos/08.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-09",
+        "titulo": "Garou",
+        "imagen": "./img/polos/09.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-10",
+        "titulo": "Yuji Itadori",
+        "imagen": "./img/polos/10.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-11",
+        "titulo": "Sello 8 trigramas",
+        "imagen": "./img/polos/11.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-12",
+        "titulo": "Himiko Toga",
+        "imagen": "./img/polos/12.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-13",
+        "titulo": "Monkey D. Luffy",
+        "imagen": "./img/polos/13.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-14",
+        "titulo": "Saitama",
+        "imagen": "./img/polos/14.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-15",
+        "titulo": "Saitama Serio",
+        "imagen": "./img/polos/15.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    {
+        "id": "polos-16",
+        "titulo": "Oppai",
+        "imagen": "./img/polos/16.jpg",
+        "categoria": {
+            "nombre": "polos",
+            "id": "polos"
+        },
+        "precio": 15
+    },
+    
+    {
+        "id": "pantalones-01",
+        "titulo": "Akatsuki",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-02",
+        "titulo": "Akatsuki y Bandas",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-03",
+        "titulo": "Konoha",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-04",
+        "titulo": "One Piece",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-05",
+        "titulo": "O.P",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-06",
+        "titulo": "DBZ",
+        "imagen": "./img/pantalones/06.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-07",
+        "titulo": "KNY",
+        "imagen": "./img/pantalones/07.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-08",
+        "titulo": "Black Dragons",
+        "imagen": "./img/pantalones/08.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-09",
+        "titulo": "ToMan",
+        "imagen": "./img/pantalones/09.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-10",
+        "titulo": "Manjiro Sano",
+        "imagen": "./img/pantalones/10.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-11",
+        "titulo": "Bakugo",
+        "imagen": "./img/pantalones/11.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-12",
+        "titulo": "Karasuno",
+        "imagen": "./img/pantalones/12.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-13",
+        "titulo": "Hunter x Hunter",
+        "imagen": "./img/pantalones/13.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-14",
+        "titulo": "Tokyo Revengers",
+        "imagen": "./img/pantalones/14.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-15",
+        "titulo": "Mikey ",
+        "imagen": "./img/pantalones/15.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalones-16",
+        "titulo": "T.R",
+        "imagen": "./img/pantalones/16.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    }
+]
