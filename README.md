@@ -1,6 +1,6 @@
-# TodoListPeruvian
+# Plutón/TiendaDeRopa
 
-¡Bienvenido al proyecto **Plutón/TiendaDeRopa**! Este es un proyecto de gestión de tareas realizado con **Node.js**, **React**, y **Vite**, enfocado en la usabilidad y la conectividad con una API backend. El objetivo principal es proporcionar a los usuarios una aplicación para gestionar y organizar sus tareas diarias de forma fácil y eficiente.
+¡Bienvenido al proyecto **Plutón/TiendaDeRopa**
 
 ## Índice
 
@@ -219,13 +219,13 @@ closeMenu.addEventListener("click", () => {
 ## Uso
 
 
-### 1. Carrito de Compras
+### 1. Clonar
 
 ```bash
 Clona el repositorio o descarga los archivos.
 ```
 
-### 2. Carrito de Compras
+### 2. Ejeutar
 
 ```bash
 Abre el archivo index.html en tu navegador para ver la tienda en funcionamiento.
@@ -246,7 +246,7 @@ Este proyecto está bajo la Licencia MIT. Puedes usar, modificar y distribuir el
 
 ### Imágenes:
 
-A continuación, se muestran algunas imágenes del formulario de autenticación (AuthForm) y otras vistas relevantes:
+A continuación, se muestran algunas imágenes y otras vistas relevantes:
 
 1. ![Pantalla Principal](public/img/README/img2.webp)
 2. ![Carrito de Compras](public/img/README/img2-2.webp)
